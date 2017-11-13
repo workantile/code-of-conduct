@@ -1,39 +1,43 @@
 # Workantile Members’ Handbook
 
-  1. Organization 
-    * The company and owners
-    * The maintainers 
-  2. Membership 
-    * What the community expects of its members
-    * What the community expects of the maintainers
-    * Membership levels
-    * Tasks
-    * Reserving conference rooms
-    * Mail
-    * Calendar 
-  3. The fun stuff 
-    * Snacks, coffee, kitchen
-    * Social lunch
-    * Game day
-    * Other random events
-    * Hosting events
-    * The Members’ Library
-  4. Practical matters 
-    * Where to park
-    * Bus system
-    * Community bike 
-    * Printer/scanner/copier
-    * The Drawer That has One of Everything
-    * Projectors
-    * Speakers
-    * Supplies
-    * Thermostat
-    * First Aid
-    * Mail Table
-  5. Where to eat, shop, etc 
-    * Restaurants, bars, take-out
-    * Farmer’s market
-    * Food, party stores
+* [The company](#the-company)
+* [Maintainers](#maintainers)
+- [Membership](#membership)
+  * [What the community expects of its members](#what-the-community-expects-of-its-members)
+  * [What the community expects of the maintainers](#what-the-community-expects-of-the-maintainers)
+  * [Membership levels](#membership-levels)
+  * [Tasks](#tasks)
+  * [Reserving conference rooms](#reserving-conference-rooms)
+  * [Mail](#mail)
+  * [Calendar](#calendar)
+- [The Fun Stuff](#the-fun-stuff)
+  * [Snacks, coffee, kitchen](#snacks--coffee--kitchen)
+  * [Social lunch](#social-lunch)
+  * [Slack team](#slack-team)
+  * [Twitter](#twitter)
+  * [Game Day](#game-day)
+  * [Other random events](#other-random-events)
+  * [Hosting events](#hosting-events)
+  * [The Members’ Library](#the-members--library)
+- [Practical matters](#practical-matters)
+  * [Parking](#parking)
+  * [Bus system](#bus-system)
+  * [Printer/Scanner/Copier](#printer-scanner-copier)
+  * [The Drawers That have One of Everything](#the-drawers-that-have-one-of-everything)
+  * [Flat screen HDTV](#flat-screen-hdtv)
+  * [Speakers](#speakers)
+  * [Supplies](#supplies)
+  * [Thermostat](#thermostat)
+  * [First Aid](#first-aid)
+  * [Mail Table](#mail-table)
+- [Where to eat, shop, etc.](#where-to-eat--shop--etc)
+  * [Eats](#eats)
+  * [Eats, drinks](#eats--drinks)
+  * [Shop](#shop)
+  * [Post Office](#post-office)
+  * [Library](#library)
+  * [Shipping, Large-scale Printing, Copying](#shipping--large-scale-printing--copying)
+  * [Explore](#explore)
 
 Welcome to Workantile, a community of freelancers and remote employees. This
 handbook will help you integrate into the community. If you have any
@@ -324,5 +328,3 @@ The main branch of the Ann Arbor District Library is on Fifth Ave at William
 There are a number of restaurants, bars, coffee shops, and retail stores in
 downtown Ann Arbor. This list doesn’t even scratch the surface. Do walk around
 and explore.
-
-
