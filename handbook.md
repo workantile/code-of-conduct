@@ -39,6 +39,8 @@
   * [Shipping, Large-scale Printing, Copying](#shipping--large-scale-printing--copying)
   * [Explore](#explore)
 
+---
+
 **Welcome to Workantile, a community of freelancers and remote employees.**
 
 This handbook will help you integrate into the community. If you have any
