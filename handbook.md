@@ -39,8 +39,9 @@
   * [Shipping, Large-scale Printing, Copying](#shipping--large-scale-printing--copying)
   * [Explore](#explore)
 
-Welcome to Workantile, a community of freelancers and remote employees. This
-handbook will help you integrate into the community. If you have any
+**Welcome to Workantile, a community of freelancers and remote employees.**
+
+This handbook will help you integrate into the community. If you have any
 questions, please don’t hesitate to ask any of the maintainers, or any other
 member, for help.
 
@@ -67,9 +68,12 @@ that all the things that need doing get done. They are:
   * Sarah Zettel: szettel@umich.edu
   * Anna Schumaker: schumaker.anna@gmail.com
   * Chris Salzman: christopher.salzman@gmail.com
+  * Chris Dzombak: chris@dzombak.com
 
 Maintainers meet as necessary and the meetings are announced on Slack. All
 members are welcome, encouraged even, to come to the meetings.
+
+The maintainers can all be emailed together via maintainers@workantile.com.
 
 Any member who wants to become a maintainer is welcome to, just ask!
 
